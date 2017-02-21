@@ -1,0 +1,10 @@
+@import url(../../../stylesheets/application.css);
+
+#top-menu {font-size: 1em; background-color: #444444; color: #999999; padding-top: 4px; font-weight: normal}
+#top-menu a {font-size: 1em; background-color: #444444; color: #999999; padding-top: 4px; font-weight: normal}
+#header {background-color: #DCD678; color: black }
+#header a {color: black }
+#main-menu li a {color: black }
+#main-menu li a.new-object {background-color: white }
+#main-menu li a:hover {background: white; color:black;}
+#header h1 { background: url(../images/logo.png) left center no-repeat; padding: 2px 10px 10px 50px;}
